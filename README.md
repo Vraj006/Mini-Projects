@@ -4,7 +4,7 @@ Projects
 1. Carbon Footprint Calculator & Carpool Matcher
 Description: A web application that calculates users' carbon footprint based on transportation choices and suggests carpool matches to reduce emissions.
 
-Tech Stack: React.js, Node.js, Express.js, MongoDB, Firebase
+Tech Stack: React.js, Node.js, Express.js, Firebase
 
 Features:
 
