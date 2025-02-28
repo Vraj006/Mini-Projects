@@ -1,0 +1,16 @@
+   # Ignore node_modules in all projects
+   Smart-Library/smart-library-system/server/node_modules/
+
+   # Ignore environment files
+   .env
+
+   # Ignore build directories
+   dist/
+   build/
+
+   # Ignore IDE-specific files
+   .vscode/
+   .idea/
+
+   # Ignore OS-specific files
+   .DS_Store
